@@ -21,3 +21,10 @@ You: Hello
 Chatbot: Hello! Welcome to our customer service. How can I help you?
 You: Refund
 Chatbot: Our refund policy allows returns within 30 days with a receipt.
+
+## Future Improvements
+- Add NLP for better query understanding.
+- Integrate with a GUI or messaging platform.
+
+## Author
+Jean Michael - Created for AI Internship (June 2025)
